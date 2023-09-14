@@ -1,2 +1,2 @@
 # .github.io
-My Resume
+My Resume, made by NAING
